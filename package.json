@@ -1,0 +1,17 @@
+{
+  "name": "darkmode_app",
+  "version": "1.0.0",
+  "description": "darkmode app to test electron store",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "malick tammal",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  },
+  "dependencies": {
+    "electron-store": "^8.2.0"
+  }
+}
